@@ -110,7 +110,6 @@ nav ul{
 	border-radius: 10px;
 	padding-right: 30px;
 	font-size: 1.6rem;
-	display:none;
 }
 
 .search-btn{
@@ -119,7 +118,7 @@ nav ul{
 	right: 1.3rem;
 	transform: translateY(-50%);
 	cursor: pointer;
-	display: none;
+	
 }
 
 #atendimento img, #cadastro img, #carrinho img{
@@ -129,7 +128,7 @@ nav ul{
 }
 
 #atendimento p, #cadastro p , #carrinho p{
-	display: none;
+	
 } 
 
 #atendimento, #cadastro, #carrinho, #pesquisar{
