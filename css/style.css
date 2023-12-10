@@ -144,18 +144,18 @@ nav ul{
 
 #nav-paginas{
 	margin-top: 1rem;
-	padding: 0.5rem;
+	padding: 1rem;
 	background-color: white;
 	width: 100%;
 	display: flex;
 	justify-content: center;
-	gap: 1rem;
+	gap: 4.7rem;
 }
 
 #nav-paginas a{
 	font-family: 'Libre Caslon Display', serif;
 	color: #000000;
-	font-size: 1.2rem;
+	font-size: 1.4rem;
 	font-weight: bold;
 	line-height: 150%;
 	transition: color .3s ease;
